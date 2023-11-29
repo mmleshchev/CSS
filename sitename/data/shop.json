@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "Epiphone Casino.",
     "price": 100,
-    "img": "/images/casino.jpeg"
+    "img": "./images/casino.jpeg"
   },
   {
     "id": "2",
