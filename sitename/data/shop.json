@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Fender Player Jaguar",
     "price": 200,
-    "img": "/images/fender_jaguar.jpeg"
+    "img": "./images/fender_jaguar.jpeg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": "Fender Vintera Mustang",
     "price": 300,
-    "img": "/images/fender_mustang.jpeg"
+    "img": "./images/fender_mustang.jpeg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "vendor_code": "444e",
     "description": "Fender Jag-Stang",
     "price": 400,
-    "img": "/DOM/images/jag-stang.jpeg"
+    "img": "./images/jag-stang.jpeg"
   }
   ,
   {
@@ -38,7 +38,7 @@
     "vendor_code": "4445e",
     "description": "Fender Mustang Bass",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+    "img": "./images/mustangbass.jpeg"
   },
   {
     "id": "6",
@@ -46,7 +46,7 @@
     "vendor_code": "4446e",
     "description": "Fender Acoustasonic",
     "price": 400,
-    "img": "/DOM/images/acoustasonic.jpeg"
+    "img": "./images/acoustasonic.jpeg"
   },
   {
     "id": "7",
@@ -54,7 +54,7 @@
     "vendor_code": "4447e",
     "description": "Gibson Acoustic SJ22VSGA1 J-200",
     "price": 700,
-    "img": "/DOM/images/gibsonac.jpeg"
+    "img": "./images/gibsonac.jpeg"
   },
   {
     "id": "8",
@@ -62,7 +62,7 @@
     "vendor_code": "4448e",
     "description": "Ernie Ball strings 9-42",
     "price": 800,
-    "img": "/DOM/images/eb942.jpeg"
+    "img": "./images/eb942.jpeg"
   },
   {
     "id": "9",
@@ -70,7 +70,7 @@
     "vendor_code": "444e",
     "description": "Ernie Ball 10-46",
     "price": 400,
-    "img": "/DOM/images/eb1046.jpeg"
+    "img": "./images/eb1046.jpeg"
   }
   ,
   {
@@ -79,6 +79,6 @@
     "vendor_code": "44410e",
     "description": "Ernie Ball11-52",
     "price": 900,
-    "img": "/DOM/images/eb1154.jpeg"
+    "img": "./images/eb1154.jpeg"
   }
 ],
