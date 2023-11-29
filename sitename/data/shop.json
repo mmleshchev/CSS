@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "Epiphone Casino.",
     "price": 100,
-    "img": "/DOM/images/casino.jpeg"
+    "img": "/images/casino.jpeg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Fender Player Jaguar",
     "price": 200,
-    "img": "/DOM/images/fender_jaguar.jpeg"
+    "img": "/images/fender_jaguar.jpeg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": "Fender Vintera Mustang",
     "price": 300,
-    "img": "/DOM/images/fender_mustang.jpeg"
+    "img": "/images/fender_mustang.jpeg"
   },
   {
     "id": "4",
